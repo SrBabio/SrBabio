@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrBabio, i like to create and you can fin a lot of tyrosine in my blood. 
+- 👋 Hi, I’m @SrBabio, i like to create and you can find a lot of tyrosine in my blood. 
 - 👀 I’m interested in programming language like C++ and python. But you can find me make a lot of stuff in html, css, ...
 - 🌱 I am currently learning interesting things in deep learning 
 - 💞️ I am more in the process of developing a start-up at the moment but open to stimulating opportunities
